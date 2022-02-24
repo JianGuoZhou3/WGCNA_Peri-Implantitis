@@ -1,0 +1,255 @@
+nodeName	nodeAttribute
+CCL1	chemokine
+CCL2	chemokine
+CCL3	chemokine
+CCL4	chemokine
+CCL5	chemokine
+CCL7	chemokine
+CCL8	chemokine
+CCL11	chemokine
+CCL13	chemokine
+CCL14	chemokine
+CCL15	chemokine
+CCL16	chemokine
+CCL17	chemokine
+CCL18	chemokine
+CCL19	chemokine
+CCL20	chemokine
+CCL21	chemokine
+CCL22	chemokine
+CCL23	chemokine
+CCL24	chemokine
+CCL25	chemokine
+CCL26	chemokine
+CCL27	chemokine
+CCL28	chemokine
+CX3CL1	chemokine
+CXCL1	chemokine
+CXCL2	chemokine
+CXCL3	chemokine
+CXCL5	chemokine
+CXCL6	chemokine
+CXCL8	chemokine
+CXCL9	chemokine
+CXCL10	chemokine
+CXCL11	chemokine
+CXCL12	chemokine
+CXCL13	chemokine
+CXCL14	chemokine
+CXCL16	chemokine
+CXCL17	chemokine
+XCL1	chemokine
+XCL2	chemokine
+CCR1	receptor
+CCR2	receptor
+CCR3	receptor
+CCR4	receptor
+CCR5	receptor
+CCR6	receptor
+CCR7	receptor
+CCR8	receptor
+CCR9	receptor
+CCR10	receptor
+CXCR1	receptor
+CXCR2	receptor
+CXCR3	receptor
+CXCR4	receptor
+CXCR5	receptor
+CXCR6	receptor
+XCR1	receptor
+CX3CR1	receptor
+A2aR	Immunoinhibitor
+CD272	Immunoinhibitor
+CD160	Immunoinhibitor
+SLAMF4	Immunoinhibitor
+PD-L1	Immunoinhibitor
+CD96	Immunoinhibitor
+CSF1R	Immunoinhibitor
+CTLA-4	Immunoinhibitor
+TIM3	Immunoinhibitor
+IDO1	Immunoinhibitor
+IL10	Immunoinhibitor
+IL10RB	Immunoinhibitor
+VEGFR	Immunoinhibitor
+KIR2DL1	Immunoinhibitor
+KIR2DL3	Immunoinhibitor
+LAG3	Immunoinhibitor
+LGALS9	Immunoinhibitor
+PD-1	Immunoinhibitor
+PD-L2	Immunoinhibitor
+CD112	Immunoinhibitor
+TGFB1	Immunoinhibitor
+TGFBR1	Immunoinhibitor
+TIGIT	Immunoinhibitor
+B7-H4	Immunoinhibitor
+BTNL2	Immunostimulator
+VISTA	Immunostimulator
+CD27	Immunostimulator
+B7-H3	Immunostimulator
+CD28	Immunostimulator
+CD40	Immunostimulator
+CD40LG	Immunostimulator
+CD48	Immunostimulator
+CD70	Immunostimulator
+B7.1	Immunostimulator
+B7.2	Immunostimulator
+CXCL12	Immunostimulator
+CXCR4	Immunostimulator
+CD39	Immunostimulator
+B7-H7	Immunostimulator
+ICOS	Immunostimulator
+B7-H2	Immunostimulator
+CD25	Immunostimulator
+IL6	Immunostimulator
+IL6R	Immunostimulator
+NKG2A	Immunostimulator
+NKG2D	Immunostimulator
+LTA	Immunostimulator
+MICB	Immunostimulator
+CD73	Immunostimulator
+CD155	Immunostimulator
+RAET1E	Immunostimulator
+STING	Immunostimulator
+TMIGD2	Immunostimulator
+CD267	Immunostimulator
+BAFF-R	Immunostimulator
+HVEM	Immunostimulator
+BCMA	Immunostimulator
+GITR	Immunostimulator
+DR3	Immunostimulator
+OX40	Immunostimulator
+CD30	Immunostimulator
+4-1BB	Immunostimulator
+APRIL	Immunostimulator
+BAFF	Immunostimulator
+LIGHT	Immunostimulator
+TL1A	Immunostimulator
+GITRL	Immunostimulator
+OX-40L	Immunostimulator
+4-1BB-L	Immunostimulator
+ULBP1	Immunostimulator
+AR	Transcription factor
+ARNTL	Transcription factor
+ATF1	Transcription factor
+ATF2	Transcription factor
+ATF4	Transcription factor
+ATF6	Transcription factor
+BACH1	Transcription factor
+CDX2	Transcription factor
+CEBPA	Transcription factor
+CEBPB	Transcription factor
+CEBPD	Transcription factor
+CREB1	Transcription factor
+CTCF	Transcription factor
+E2F1	Transcription factor
+E2F2	Transcription factor
+E2F3	Transcription factor
+E2F4	Transcription factor
+EGR1	Transcription factor
+ELK1	Transcription factor
+EPAS1	Transcription factor
+ERG	Transcription factor
+ESR1	Transcription factor
+ESR2	Transcription factor
+ETS1	Transcription factor
+ETS2	Transcription factor
+ETV4	Transcription factor
+FLI1	Transcription factor
+FOS	Transcription factor
+FOSL1	Transcription factor
+FOSL2	Transcription factor
+FOXA1	Transcription factor
+FOXA2	Transcription factor
+FOXL2	Transcription factor
+FOXM1	Transcription factor
+FOXO1	Transcription factor
+FOXO3	Transcription factor
+FOXO4	Transcription factor
+FOXP1	Transcription factor
+GATA1	Transcription factor
+GATA2	Transcription factor
+GATA3	Transcription factor
+GLI2	Transcription factor
+HIF1A	Transcription factor
+HNF1A	Transcription factor
+HNF4A	Transcription factor
+HSF1	Transcription factor
+IRF1	Transcription factor
+IRF9	Transcription factor
+JUN	Transcription factor
+JUND	Transcription factor
+KLF4	Transcription factor
+KMT2A	Transcription factor
+LEF1	Transcription factor
+MITF	Transcription factor
+MYB	Transcription factor
+MYC	Transcription factor
+MYCN	Transcription factor
+NFATC2	Transcription factor
+NFE2L2	Transcription factor
+NFIC	Transcription factor
+NFKB1	Transcription factor
+NFKB2	Transcription factor
+NFYA	Transcription factor
+NR2F2	Transcription factor
+NR3C1	Transcription factor
+NR5A1	Transcription factor
+PAX6	Transcription factor
+PAX8	Transcription factor
+PGR	Transcription factor
+POU2F1	Transcription factor
+POU2F2	Transcription factor
+PPARA	Transcription factor
+PPARG	Transcription factor
+PRDM14	Transcription factor
+RARA	Transcription factor
+REL	Transcription factor
+RELA	Transcription factor
+RELB	Transcription factor
+REST	Transcription factor
+RFX5	Transcription factor
+RUNX1	Transcription factor
+RUNX3	Transcription factor
+RXRA	Transcription factor
+SMAD3	Transcription factor
+SMAD4	Transcription factor
+SOX10	Transcription factor
+SOX2	Transcription factor
+SOX9	Transcription factor
+SP1	Transcription factor
+SP3	Transcription factor
+SPI1	Transcription factor
+SREBF1	Transcription factor
+SREBF2	Transcription factor
+SRF	Transcription factor
+STAT1	Transcription factor
+STAT2	Transcription factor
+STAT3	Transcription factor
+STAT4	Transcription factor
+STAT5A	Transcription factor
+STAT5B	Transcription factor
+STAT6	Transcription factor
+TAL1	Transcription factor
+TCF3	Transcription factor
+TCF7L2	Transcription factor
+TFAP2A	Transcription factor
+TFAP2C	Transcription factor
+TFDP1	Transcription factor
+TP53	Transcription factor
+TP63	Transcription factor
+TWIST1	Transcription factor
+USF1	Transcription factor
+USF2	Transcription factor
+VDR	Transcription factor
+WT1	Transcription factor
+YY1	Transcription factor
+ZBTB33	Transcription factor
+ZEB1	Transcription factor
+ZNF263	Transcription factor
+ACTB	Hub gene
+IL1B	Hub gene
+IL10	Hub gene
+ITGAM	Hub gene
+ITGB1	Hub gene
+STAT3	Hub gene
+TLR4	Hub gene
